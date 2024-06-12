@@ -20,7 +20,7 @@ function App() {
 function MyButton({ count, onClick }) {
 return (
     <button onClick={onClick}>
-      Clicked {count} times June 10, 2024
+      Clicked {count} times June 11, 2024
     </button>
   );
   
